@@ -4,7 +4,7 @@
 Green=$(echo '\033[00;32m')
 Cyan=$(echo '\033[00;36m')
 RED=$(echo '\033[00;31m')
-YELLOW=$(echo  '\033[00;33m')
+YELLOW=$(echo '\033[00;33m')
 
 echo "${Green}Im Starting to update!"
 	apt update
